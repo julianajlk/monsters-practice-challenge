@@ -5999,6 +5999,48 @@
       "age": 994.3545545377854,
       "description": "Noisome cat singular fainted ululate accursed hideous loathsome. Accursed antiquarian shunned loathsome eldritch squamous immemorial. Blasphemous iridescence loathsome eldritch noisome unutterable immemorial fungus. Unutterable stench madness gibbering eldritch antediluvian unmentionable.",
       "id": 1000
+    },
+    {
+      "name": "test monster",
+      "age": 100,
+      "description": "test description",
+      "id": 1001
+    },
+    {
+      "name": "Monster1",
+      "age": "10",
+      "description": "description of monster1",
+      "id": 1002
+    },
+    {
+      "name": "Monster2",
+      "age": "100",
+      "description": "hfgdsa",
+      "id": 1003
+    },
+    {
+      "name": "Monster3",
+      "age": "2000",
+      "description": "sdfghnf",
+      "id": 1004
+    },
+    {
+      "name": "Monster4",
+      "age": "400",
+      "description": "asdfghds",
+      "id": 1005
+    },
+    {
+      "name": "Monster5",
+      "age": "200",
+      "description": "esdhfgsa",
+      "id": 1006
+    },
+    {
+      "name": "Monster6",
+      "age": "2004",
+      "description": "sgfa",
+      "id": 1007
     }
   ]
 }
